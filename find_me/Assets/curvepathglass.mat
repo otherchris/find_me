@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pathglass
+  m_Name: curvepathglass
   m_Shader: {fileID: 4800000, guid: 5e2f1832b11691740aa7d4ca34aad6d1, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     m_TexEnvs:
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: 2756c4dc58a69cd48ad130e6f4670346, type: 3}
-        m_Scale: {x: 10, y: 30}
+        m_Scale: {x: 30, y: 30}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
         m_Texture: {fileID: 0}
@@ -44,7 +44,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 7baa4efa298620242997fb06414eb6f0, type: 3}
-        m_Scale: {x: 10, y: 30}
+        m_Scale: {x: 30, y: 30}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
