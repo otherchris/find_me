@@ -11,7 +11,6 @@ public class setface : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		Debug.Log (PlayerPrefs.GetString("gameState").ToString());
 	}
 
 	void OnTriggerEnter(Collider other){
